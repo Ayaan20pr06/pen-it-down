@@ -18,7 +18,6 @@ depends: [
   "ocaml" {>= "4.12.1"}
   "irmin" {>= "3.1.0"}
   "irmin-git"
-  "irmin-mem"
   "omd" {>= "2.0.0~alpha2"}
 ]
 pin-depends: [
